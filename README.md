@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Mohamed Elamrosy 👋</h1>
+<img width="1185" height="1390" alt="image" src="https://github.com/user-attachments/assets/5155be9e-33d9-4888-af7d-84c4e034e49b" /><h1 align="center">Hi there, I'm Mohamed Elamrosy 👋</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding gif"/>
@@ -84,5 +84,8 @@ Currently focused on:
 
 <a href="https://www.facebook.com/mohamed.sameh.361591/" target="_blank"> <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white"/> </a> 
 <a href="https://x.com/Aboalhdied?t=t_vOsvgXo8uiQDj5ji9M5w&s=08" target="_blank"> 
+
+<a href="https://t.me/El3mrosey
+" target="_blank"><img src="https://img.shields.io/badge/Mohamed%20El3mrosey-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 
 > “Keep pushing forward. Every line of code brings you closer to mastery.” 💪
