@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Mohamed Sameh Elamrosy 👋</h1>
+<h1 align="center">Hi there, I'm Mohamed Elamrosy 👋</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding gif"/>
@@ -76,19 +76,12 @@ Currently focused on:
 
 ---
 
-## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-El3mrosy&show_icons=true&theme=react" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-El3mrosy&layout=compact&theme=react" height="150"/>
-</p>
-
----
 
 ### Connect with Me :
 
-<a href="(https://www.linkedin.com/in/mohmaed-elamrosey-6221b832b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/> </a> 
-<a href="mailto:m.sameh.eng@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/-Email-D44638?style=for-the-badge&logo=Gmail&logoColor=white"/> </a>
+<a href="https://www.linkedin.com/in/mohmaed-elamrosey-6221b832b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/> </a> 
+
 <a href="https://www.facebook.com/mohamed.sameh.361591/" target="_blank"> <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white"/> </a> 
 <a href="https://x.com/Aboalhdied?t=t_vOsvgXo8uiQDj5ji9M5w&s=08" target="_blank"> 
 
